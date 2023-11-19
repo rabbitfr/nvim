@@ -1,6 +1,7 @@
 
 - basic .vimrc
 - todo shortc
+- todo set autocmd commit 
 
 TODO: set format to 4 spaces
 
@@ -25,8 +26,13 @@ Count down   move down x lines
 H prev buffer
 L next buffer 
 
+ypp duplicate line
 
 gcc comment line 
+
+## Folding
+
+
 
 Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
 
